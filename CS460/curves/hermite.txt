@@ -1,0 +1,12 @@
+HERMITE
+Keyframes: 
+	KF[0]: time = 0; vals = 0,0,0;
+	KF[1]: time = 0.33; vals = 25,100,0;
+	KF[2]: time = 0.66; vals = -25,100,0;
+	KF[3]: time = 1; vals = 76.4564,3.01802,0;
+	KF[4]: time = 0.33; vals = -25,100,0;
+	KF[5]: time = 0.66; vals = 13.979,80.4805,0;
+	KF[6]: time = 2; vals = 150,0,0;
+	KF[7]: time = 2; vals = 13.476,79.4745,0;
+	KF[8]: time = 2; vals = -25,-100,0;
+	KF[9]: time = 3; vals = 239.932,1.50901,0;
